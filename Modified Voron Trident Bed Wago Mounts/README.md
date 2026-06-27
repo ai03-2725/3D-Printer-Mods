@@ -12,3 +12,10 @@ All credits for the original design go to the Voron team.
 ## Note
 
 The provided STLs are **not** scaled for shrinkage - please [calibrate your filament for shrinkage](https://github.com/ai03-2725/truss-3dp-shrinkage-util) as necessary.  
+
+## Photos
+Examples printed using CC3D PC (PC-PETG blend) to better withstand high temperatures close to the bed heater.  
+
+![Pre-assembly](images/print-raw.jpg)
+![Assembled](images/print-assembled.jpg)
+![Both sizes](images/print-both-sizes.jpg)
